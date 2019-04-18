@@ -1,17 +1,37 @@
-#buttons {
-	width: 80vw;
-	margin: 10px 0 0 10vw;
+main	{
+	margin: 0 10vw;
 }
 
-#font {
+p {
+    margin-bottom: 48px;
+}
+
+.buttons {
 	width: 80vw;
-	margin-left: 10vw;
-	margin-top: 45vh;
+	margin: 10px 0 20px 0;
+}
+
+textarea {
+    width: 80vw;
+    max-width: 80vw;
+}
+
+#black	{
 	font-size: 24pt;
-	font-family: "Retro", serif;
+	font-family: "Retro-Black", serif;
+}
+
+#outlines {
+	font-size: 24pt;
+	font-family: "Retro-Outlines", serif;
 }
 
 @font-face {
-	font-family: "Retro";
+	font-family: "Retro-Black";
 	src: url("/fonts/Retro-Black.otf");
+}
+
+@font-face {
+	font-family: "Retro-Outlines";
+	src: url("/fonts/Retro-Outlines.otf");
 }
