@@ -1,5 +1,6 @@
 main	{
-	margin: 0 10vw;
+    margin: 10vh 10vw 0 10vw;
+    max-width: 80vw;
 }
 
 p {
@@ -8,7 +9,7 @@ p {
 
 .buttons {
 	width: 80vw;
-	margin: 10px 0 20px 0;
+	margin: 10px 0 50px 0;
 }
 
 textarea {
