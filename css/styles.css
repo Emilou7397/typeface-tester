@@ -18,21 +18,21 @@ textarea {
 }
 
 #black	{
-	font-size: 24pt;
-	font-family: "Retro-Black", serif;
+	font-size: 36pt;
+	font-family: "Summer of '81 Black", serif;
 }
 
 #outlines {
-	font-size: 24pt;
-	font-family: "Retro-Outlines", serif;
+	font-size: 36pt;
+	font-family: "Summer of '81 Outlines", serif;
 }
 
 @font-face {
-	font-family: "Retro-Black";
+	font-family: "Summer of '81 Black";
 	src: url("/fonts/Retro-Black.otf");
 }
 
 @font-face {
-	font-family: "Retro-Outlines";
+	font-family: "Summer of '81 Outlines";
 	src: url("/fonts/Retro-Outlines.otf");
 }
