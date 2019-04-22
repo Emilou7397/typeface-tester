@@ -29,10 +29,10 @@ textarea {
 
 @font-face {
 	font-family: "Summer of '81 Black";
-	src: url("../fonts/Retro-Black.otf");
+	src: url("./fonts/Retro-Black.otf");
 }
 
 @font-face {
 	font-family: "Summer of '81 Outlines";
-	src: url("../fonts/Retro-Outlines.otf");
+	src: url("./fonts/Retro-Outlines.otf");
 }
