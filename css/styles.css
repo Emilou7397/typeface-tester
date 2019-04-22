@@ -1,10 +1,11 @@
 main	{
-    margin: 10vh 10vw 0 10vw;
-    max-width: 80vw;
+    margin: 10vh auto;
+	width: 80vw;
+	max-width: 1200px;
 }
 
 p {
-    margin-bottom: 48px;
+	margin-bottom: 48px;
 }
 
 .buttons {
@@ -14,7 +15,7 @@ p {
 
 textarea {
     width: 80vw;
-    max-width: 80vw;
+    max-width: 1200px;
 }
 
 #black	{
